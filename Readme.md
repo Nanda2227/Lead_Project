@@ -115,7 +115,7 @@ pip install numpy pandas matplotlib seaborn missingno scikit-learn
 ---
 
 ## Author
-**[Your Name]**
+**[Suhas Jadhav]**
 
-If you have feedback or suggestions, feel free to open an issue or submit a pull request.
+
 
